@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.2
+
+### Patch Changes
+
+- 0b519e548: allow non-http origins for application CORS
+
 ## 1.5.1
 
 ### Patch Changes
